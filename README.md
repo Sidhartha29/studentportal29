@@ -34,7 +34,7 @@ Example: `https://studentportal29.netlify.app/`
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/student-portal-landing.git
+git clone https://github.com/Sidhartha29/studentportal29
 ```
 
 2. Open the folder in **Visual Studio Code** (or any code editor).
